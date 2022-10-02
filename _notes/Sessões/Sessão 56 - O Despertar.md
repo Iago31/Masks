@@ -14,7 +14,7 @@ Link:[[]]
 
 ---
 ### Anotações para a Sessão
-Para a criação da Gish-Rla, vai ser necessário usar o feitiço de [[Acelerar Desóva de Névoa]] (Chamar de "Vincular Gish-Rla", sei lá). Ela irá gradualmente se transformar em uma criatura de névoa, e o Vórus será capaz de comanda-la.
+Para a criação da Gish-Rla, vai ser necessário usar o feitiço de [[Vincular Gish-Rla]] (Chamar de "Vincular Gish-Rla", sei lá). Ela irá gradualmente se transformar em uma criatura de névoa, e o Vórus será capaz de comanda-la.
 
 ---
 
