@@ -11,7 +11,8 @@ tags:
 Links: [[]]
 
 ---
+*Encontrada no porão da Casa Ju-Ju na Amperica*
 
-Várias rimas cuneiformes estão arranhadas na superfície desta pesada, curiosamente quente, tiara de metal.
+Várias runas cuneiformes estão arranhadas na superfície desta pesada, curiosamente quente, tiara de metal.
 
-**Nota:** um teste de **Mitos de Cthulhu** determina não apenas que as runas estão escritas em Senzar, a língua perdida de Atlantis, mas que a tiara é algum tipo de proteção contra [[Lúgubres Noturnos]] (Nightgaunts). Nenhum lúgubre noturno pode machucar o usuário desta tiara ao menos que ele machuque a criatura primeiro.
+As runas estão escritas em Senzar, a língua perdida de Atlantis, mas pode-se identificar que a tiara é algum tipo de proteção contra criaturas conhecidas como Lúgubres Noturnos. Nenhum lúgubre noturno pode machucar o usuário desta tiara ao menos que ele machuque a criatura primeiro.

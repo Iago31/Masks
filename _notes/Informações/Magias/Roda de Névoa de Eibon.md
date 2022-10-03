@@ -5,8 +5,8 @@ tags:
 - magia
 ---
 
-# Roda de Névoa de Eibon :Cthulhu_protecao:
-_Eibon’s Wheel of Mist_
+# Roda de Névoa de Eibon
+*Eibon’s Wheel of Mist*
 
 Links:
 

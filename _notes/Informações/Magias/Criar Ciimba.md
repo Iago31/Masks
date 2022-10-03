@@ -5,7 +5,7 @@ tags:
 - magia
 ---
 
-# Criar Ciimba :Cthulhu_criar:
+# Criar Ciimba
 _Create Ciimba_
 
 Links:

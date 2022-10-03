@@ -5,8 +5,8 @@ tags:
 - magia
 ---
 
-# Feitiços de Chamar :Cthulhu_invocar:
-_Call Deity_
+# Feitiços de Chamar
+*Call Deity*
 
 Links: [[Feitiços de Dispensar]]
 
@@ -23,5 +23,3 @@ O conurador também perde 1D10 pontos de Sanidade ao lançar o feitiço. Todos o
 Embora muitos feitiços de Chamar Divindade incluam um componente de dispensar, fornecendo instruções para retornar a divindade de onde foi invocada, existem inúmeras vezes em que um feitiço de Chamar Divindade não inclui a dispensa necessária. Transcrições de feitiços incompletas, falta de conhecimento e más intenções por parte do transcritor são todas as possíveis razões pelas quais os elementos de dispensar podem estar faltando. 
 
 Cada divindade requer certas condições para que o feitiço de Chamado funcione. Os Mestres devem usá-los como inspiração, mas não devem ser constrangidos por eles por duas razões. A primeira razão é baseada na ficção; nenhum humano entende completamente os Mitos de Cthulhu, então pode haver mais de uma maneira de chamar uma divindade. A segunda razão é que jogadores experientes rapidamente se apegarão aos elementos familiares e o mistério será desfeito.
-
-Segue-se uma série de feitiços de Chamar Divindade; A lista não é exaustiva. Todas as mágicas (a menos que indicado) têm o mesmo custo básico descrito acima.

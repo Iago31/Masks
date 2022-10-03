@@ -5,8 +5,8 @@ tags:
 - magia
 ---
 
-# Contatar Monstros :Cthulhu_invocar:
-_Contact Monster Spells_
+# Contatar Monstros
+*Contact Monster Spells*
 
 Links:
 
@@ -27,6 +27,6 @@ Conjurado corretamente, esse feitiço sempre funciona - a menos que não existam
 O feitiço traz um membro aleatório da espécie, presumivelmente com seus próprios motivos. O conjurador deve tentar ficar sozinho ou com não mais que um pequeno grupo, para não parecer ameaçador. Uma vez que a coisa contatada aparece, ela está livre para sair, então se o conjurador tiver algo a oferecer, as chances de uma reunião prolongada aumentam muito. Se uma espécie contatada for grande, como um pólipo voador, apenas um provavelmente aparecerá. Se for do tamanho de um humano ou menor, o Mestre pode determinar se vários representantes chegam em grupo. Não há garantia de que uma entidade contatada prefira barganhar do que devorar o conjurador. Se mais contato parecer vantajoso para ambos os lados, alguns resultados interessantes podem surgir.
 
 #### **Nomes alternativos:** 
-Use palavras como União, Comunhão, Troca, Comércio, Aliança, Pacto, Concórdia, etc. 
+Usa palavras como União, Comunhão, Troca, Comércio, Aliança, Pacto, Concórdia, etc. 
 - **Por exemplo:** *O Pacto Vermelho, Pacto das Profundezas, e assim por diante*
 

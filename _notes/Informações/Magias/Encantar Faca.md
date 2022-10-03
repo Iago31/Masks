@@ -5,8 +5,8 @@ tags:
 - magia
 ---
 
-# Encantar Faca :Cthulhu_encantamento:
-_Enchant Knife_
+# Encantar Faca
+*Enchant Knife*
 
 Links:
 
@@ -21,3 +21,6 @@ Uma lâmina encantada aumenta as chances de sucesso ao conjurar certos feitiços
 Existem feitiços de invocação que usam estes tipos de lâmina como focos para que a criatura escolhida possa vir ao mundo.
 
 O conjurador pode escolher sacrificar POD ao criar a lâmina. Cada ponto garante +1 porcento na chance de sucesso a o conjurar tais feitiços.
+
+#### Nomes Alternativos
+*Criar Lâmina Pálida*

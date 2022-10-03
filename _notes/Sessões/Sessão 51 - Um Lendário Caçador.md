@@ -6,26 +6,13 @@ data_no_jogo: 18/05/1925 Quarta - 02/06/1925, Quinta
 tags: 
 - sessão
 ---
-# Sessão 51 - Um Lendário Caçador :gameicon_papers:
+# Sessão 51 - Um Lendário Caçador 
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/fyg4y3340zI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Link:[[]]
 
 ---
-### Anotações para a Sessão
-### Anotações da Sessão
-Vórus começou a produção de um feitiço pra controlar Gish-Rla
-
-Agatha descobriu coisas do Hauhet, falar para ela.
-
-Júnior fez um pacto com o Omar: se algum dia o Haytham estivesse em perigo, era pra ele levar o Scott até lá.
-
-Érica deu o nome pro John Carver
-
-Eleu falou a localização deles pro Geoff
-
-Willian falou as coisas que sabiam do pai do Agatha pro Haytham
 
 ### Resumo da Sessão
 A sessão começou com os investigadores conversando com o José. Ele falou pra eles a história do grupo, de como se encontraram, deles enfrentando o monstro, do Morgan e o Will, do Jonathan e a droga de sangue, das brigas, e deles confrontando Johann , matando ele e quebrando o dispositivo do tempo. Ele falou pra eles do porque estava ali. Os espíritos, o suposto portão e a ligação com o Eliott. 

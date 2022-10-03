@@ -6,15 +6,13 @@ data_no_jogo: 11/05/1925 Quarta - 18/05/1925, Quarta
 tags: 
 - sessão
 ---
-# Sessão 49  - Explorando a Austrália :gameicon_papers:
+# Sessão 49  - Explorando a Austrália 
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/yk94CX6zhvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Link:[[]]
 
 ---
-### Anotações para a Sessão
-### Anotações da Sessão
 ### Resumo da Sessão
 Antes de chegarem na Austrália propriamente, terminaram as coisas no navio, com Salah e Vórus tendo uma batalha mental, Agatha moldando uma gema em um pingente para o Salah, e Scott, mudado, um ar novo sobre si.
 

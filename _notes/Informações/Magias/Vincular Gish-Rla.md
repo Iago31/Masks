@@ -5,8 +5,8 @@ tags:
 - magia
 ---
 
-# Vincular Gish-Rla :Cthulhu_criar:
-_Quicken Fog-Spawn_
+# Vincular Gish-Rla
+*Quicken Fog-Spawn*
 
 Links: [[Coisa na Névoa]]
 

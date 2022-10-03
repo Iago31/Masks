@@ -5,8 +5,9 @@ tags:
 - magia
 ---
 
-# Encantar Tocha :Cthulhu_encantamento:
-_Enchant Torch_
+# Encantar Tocha
+*Enchant Torch*
+
 Links:
 
 ---
@@ -20,3 +21,6 @@ O conjurador prepara uma réplica de ferro de uma tocha, do tamanho e peso desej
 Notavelmente, a tocha encantada não precisa de combustível: a cabeça de ferro queima inextinguivelmente e infinitamente (devido a canalizar uma porção menor do poder de Cthugha). Somente invocando o nome de Cthugha a tocha se extingue. A tocha pode ser usada para auxiliar na convocação de vampiros de fogo, com cada vampiro de fogo adicional assim convocado custando ao conjurador 1D3 pontos de sanidade e 3 pontos de magia. Esteja ciente de que os vampiros de fogo assim convocados requerem uma vinculação separada, caso o conjurador deseje dobrá-los à sua vontade.
 
 Além disso, como as chamas da tocha são extraídas de Cthugha, elas podem derreter objetos de metal (assim como aqueles imbuídos de magia), sem a necessidade de convocar vampiros de fogo.
+
+#### Nomes Alternativos
+*Encantamento da Chama Viva*

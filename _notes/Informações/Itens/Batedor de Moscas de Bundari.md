@@ -8,9 +8,10 @@ tags:
 
 # O Batedor de Moscas de Bundari
 
-Links: [[Velho Bundari]], [[Cabana de Bundari]]
+Links:
 
 ---
+*Recebido como presente de Bundari, em Quênia, África.*
 
 Possui cabo de ébano esculpido com símbolos Kikuyu. Em muitas culturas africanas, o batedor de moscas é considerado uma defesa contra espíritos malignos, pois esses espíritos geralmente assumem a forma de moscas. Esses magos invariavelmente têm batedores em sua parafernália, como qualquer pessoa bem-sucedida em um teste de **Ocultismo** ou **Antropologia** sabe. Este batedor de moscas tem dois poderes especiais, embora Bundari explique apenas que pode encontrar e resistir ao mal.
 

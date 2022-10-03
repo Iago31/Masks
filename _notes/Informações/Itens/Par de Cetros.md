@@ -11,7 +11,9 @@ tags:
 Links: [[]]
 
 ---
-Ambos [[Edward Gavigan]] e [[Zahra Shafik]] tinham um par destes cetros. ![|right|350](https://lh6.googleusercontent.com/dDU0W3yyh0HFz2bdmo0s_NQxDK_XrmfpQjCWmpyPYhIHK69dpG4Col8YcUbaDYtiJvRKZbgMz8G2LIPyU_Ri52VlKd4MhWYiQDvp9yUQmafi_ll2fb5_g8OkuQds0ceCIcUBk5Y)
+*Encontrados na Inglaterra. Ambos Edward Gavigan e Zahra Shafik tinham um par destes cetros.* 
+
+![Par de Cetros|right](https://lh6.googleusercontent.com/dDU0W3yyh0HFz2bdmo0s_NQxDK_XrmfpQjCWmpyPYhIHK69dpG4Col8YcUbaDYtiJvRKZbgMz8G2LIPyU_Ri52VlKd4MhWYiQDvp9yUQmafi_ll2fb5_g8OkuQds0ceCIcUBk5Y)
 
 Cada cetro tem por volta de 30cm; um termina em um gancho, enquanto o outro termina em uma Ankh invertida. As formas parecem quase orgânicas, como se o metal tivesse crescido ao invés de forjado; se analisado, o metal é inidentificável.
 

@@ -9,10 +9,12 @@ tags:
 
 # Arma de Relâmpagos - Modelo B
 
-Links: [[]]
+Links: 
 
 ---
-![[Arma de Relâmpagos.png|right|350]]
+*Encontrada na Cidade da Grande Raça, na Austrália*
+
+**![Arma de Relâmpagos|center](https://lh4.googleusercontent.com/L9HnnlFSsMGIkYnYdnnOeNzAgNu62fQLhqNhDaWMNQzW07lpE4ePcHirvxlx56bL3qKgzGmcm2OWiMUxHb4RMEk3KVsbNszlF7L1_T0iBDlHjtaAMeMkvVcyCyOxX7fApovFKTRMPjL64WGZeKPcXtibfpmFcoYE6RtiYkgWof6LFrgkxvtUmrBvq8d2)**
 
 Para olhos humanos, este dispositivo parece uma câmera, com uma lente e ondas saindo de uma caixa na qual surgem nódulos e tumores estranhos. De aproximadamente 60 por 30 cm, as “lentes e ondas” desta ferramenta podem ser dobradas na estrutura de transporte para facilitar a portabilidade. 
 

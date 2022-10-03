@@ -6,7 +6,7 @@ data_no_jogo: Madrugada de 17/03/1925, Quinta
 tags: 
 - sessão
 ---
-# Sessão 36 - Provocando Deuses  :gameicon_papers:
+# Sessão 36 - Provocando Deuses  
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/TVwNO8nJE_o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

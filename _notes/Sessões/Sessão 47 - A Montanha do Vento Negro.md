@@ -6,76 +6,13 @@ data_no_jogo: 10/04/1925, Domingo - 18/04/1925, Segunda
 tags: 
 - sessão
 ---
-# Sessão  47 - A Montanha do Vento Negro  :gameicon_papers:
+# Sessão  47 - A Montanha do Vento Negro 
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/mb8REkkdMok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Link:[[]]
 
 ---
-### Anotações para a Sessão
-Taan Kaur e Scott (cegar e afins)
-
-Jakyll e Anz
-
-Salah modo Berserk
-
-#### Cenas
-##### Sonho Scott
-Vê grandes criaturas aladas sem rosto,
-##### Jakyll e Anz
-Quando o Jakyll perceber que ou
-1- A entidade junto com ele é o filho de Nyarlathotep
-2- Anz vai morrer.
-Ele vai tentar tomar controle, e vai salvar eles ambos.
-##### Vórus
-_Idéia pra cena é quando o Geoff e o povo chegarem ali, o Geoff segurar a mana Mu'Weru enquanto o Vórus vê o que ele faz com a Hypatia._
-
-Ai que ele vai ter um dialogo com a criatura, que é a mesma do livro e a mesma do Jakyll, que vai dar a ele a escolha de aceitar seu presente pra salvar todos os seus amigos.
-Ai ele vai fazer a escolha entre a Fé ou o Poder (matar/exorcisar a criatura **{Fé}** ou salvar todos os seus amigos **{Poder}**, o que acaba sendo inútil porque o mano Edgar vai estar ali to save the day yay).
-
-*"Meu pai quer que eu siga seus passos e que eu realize todo tipo de coisa. Eu quero ser livre. Livre pra seguir meus próprios desejos. Tu vistes que eu não sou como ele. Te dei acesso a conhecimentos para enfrentá-lo. Você está entre um dos muitos poucos mortais que podem aceitar meu presente. Te digo isso porque, tu podes me matar, matar a moça, matar a sacerdotisa, mas isto não vai mudar o fato de que vocês não sairão daqui vivos, ao menos que consigam sobreviver a milhares de cultistas, feiticeiros, criaturas e o Avatar de meu pai. Se aceitares, eu tirarei vocês daqui, não só por respeito a sua decisão, mas também só pra ver o rosto incrédulo dele quando ele perceber que eu lhe trai."*
-
-(Caminho da Fé)
-Tu fecha os olhos. Os sinos da igreja ecoam na tua mente. Memórias do passado. Dos tempos nas catedrais, ajudando pessoas. Vem a tu a mente que, independente de tudo que tu fez na tua vida, procurando por algo, por uma razão, tu percebes algo que tu sabia, a muito, muito tempo atrás, em tempos diferentes, quando eras mais jovem, em épocas onde teu futuro era brilhante, e todos pareciam bem, e nada de errado ainda tinha acontecido. Com você. Com Geoff. Com sua irmã. Tu percebe que em todo este tempo você esteva com os olhos fechados, se afogando neste mar de culpa e tristeza, a melancolia dos acotnecimentos que seguem você independentemente de onde vá. Tu percebe que tu esteve afundando cada vez mais, e tu acha que é hora de mudar. De abrir os olhos. Se livrar deste mar que te impede de se mover livremente. 
-
-E pela primeira vez, em muito, muito tempo. Você respira fundo, abre os olhos, e sorri. Pois tu percebe que, tu não precisa se preocupar com estas coisas sozinho, pois não está sozinho. Então, o que te resta fazer é apenas uma única coisa. Acreditar. Ter... Fé. 
-
-Vocês veem a espada do Vórus mudando. O fio de sangue que corre pela lâmina muda para dourado, da mesma cor das asas que saem do cabo da espada, com a resplandecente cruz brilhando em energia mágica, e a Gema outrora negra, assim como os cabelos de Vórus, agora tornam-se brancos, e seu olhar brilha em, não Poder, mas pura e simples Fé.
-##### Agatha e Edgar
-_Realizar esta cena quando Agatha eventualmente ter um surto de loucura, quando todo mundo tiver fudido._
-
-Tu grita, fecha os olhos, tapa as orelhas, e cai no chão, tremendo, e com medo, e tenta esquecer tudo a tua volta.
-*Soltar o tema do Edgar.*
-Mas, em meio a tua loucura, sentes um calor no peito. Um brilho verde. Sons.
-(*Com o cimbal,*) ...seus olhos se abrem.
-Tua visão foca.
-
-Tu olhas em volta. Vees vultos, movendo-se em câmera lenta, e escuta os sons, abafados, distantes. Ao longe, separados de ti pela multidão de pessoas, vees teus amigos, perdidos, com medo. Tudo que trabalhou para proteger até agora, perdendo-se a tua frente. *com o riser*
-E tu sabe que tu não pode deixar isso acontecer. Mas tuas pernas não suportam teu peso, nem tua mente o comando de se mover. 
-Sons de engrenagens. Uma energia aquecedora, familiar. O Hauhet. Trabalhando. Ativando-se.
-Algo te faz se sentir inquieta, uma presença, e em meio a multidão de vozes cacofonicas a tua volta, tu escuta uma voz, clara como cristal.
-"Agatha."
-E o Hauhet brilha.
-
-Atrás de ti, vees, Edgar Van Hellsing.
-
-*No fim do choir*
- 
-Ele se aproxima, e o chão a tua volta começa a se distorcer. O Hauhet brilha, cultistas olham amedrontandos são jogados pra longe pelos feitiços do cronomante, que corre em tua direção. 
-
-*Na volta do Choir*
-
-E ele ri, ri de alegria, lagrimas correm em seu rosto, os olhos fixos em ti. Cultistas tentam para-lo, mas ele nem os da atenção, matando-os com meros gestos de sua mão. Ele chega perto de ti, para em sua frente, se ajoelha e encosta a cabeça na sua.
-"Me pediste por um sinal. *sorriso*
-Agatha. Me perdoe. Por tudo, tudo que fiz. Independente de quem sou, eu te amo, te amo muito, e nada, absolutamente nada faria com que isso fosse mentira. Mais eu devo te pedir apenas uma última coisa, para teus amigos, para ti, e pra mim. Repita o que eu vou dizer."
-
-Olhando incrédula para o teu pai, tu repete as palavras que começam a sair da boca dele. Ele acena, sussurra, e você repete. Os arredores se distorcem. Ao longe Mu'Weru grita, confusa. Encima, A Língua Sangrenta começa a prestar atenção nisto. O espaço diminui, o tempo deforma, teus amigos estão ao teu lado, tua visão se expande em uma vastidão de linhas e cosmos estrelas e planetas. Portões se abrem atrás de ti. Empurrando a ti e a teus amigos, tu entra, e tua última visão, olhando para trás, é Edgar, cultistas a sua volta, correndo, batendo em seus ombros. Ele sorrindo pra ti. E a mão de Nyarlathotep batendo no chão.
-
-
----
-Quando chegarem na Montanha do Vento Negro; tocar **O Começo do Fim**
-
 ### Resumo da Sessão
 *Clímax do Capítulo*
 

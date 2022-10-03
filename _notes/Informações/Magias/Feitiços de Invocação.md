@@ -5,7 +5,7 @@ tags:
 - magia
 ---
 
-# Feitiços de Invocação :Cthulhu_invocar:
+# Feitiços de Invocação
 
 Links: [[Feitiços de Vinculação]]
 
@@ -21,4 +21,4 @@ Um resultado de 96-100 é sempre uma falha - um resultado de 100 sempre deve ter
 
 Se for um sucesso, uma entidade aparece por feitiço, em 2d10 minutos no jogo após o feitiço ser concluído. A criatura que aparece geralmente também precisa de um teste de Sanidade em sua presença.
 
-Para vinculação, veja [[Feitiços de Vinculação]]
+Para vinculação, veja [[Feitiços de Vinculação]].

@@ -6,23 +6,13 @@ data_no_jogo: 05/06/1925, Domingo
 tags: 
 - sessão
 ---
-# Sessão 53 - Promessas e Problemas  :gameicon_papers:
+# Sessão 53 - Promessas e Problemas 
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/VpVdIs3RDvs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Link:[[]]
 
 ---
-### Anotações para a Sessão
-### Anotações da Sessão
-Vórus pediu pra ir pro abismo encontrar o Eliott
-Billy pediu um,a arma pra fatiar pessoas
-Salah pediu ajuda pra sanidade
-Anz pediu por conhecimento do Artesão
-Agatha pediu pra reconciliar o que é o caminho dela e o que é influência de Edgar
-José pediu pra saber o que houve com o Johann
-Scott pediu para 
-
 
 ### Resumo da Sessão
 A sessão começou como os investigadores ainda no templo de Vorvadoss, e Scott vendo seu irmão desaparecer na névoa da terra dos sonhos.

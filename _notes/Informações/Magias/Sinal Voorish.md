@@ -5,8 +5,8 @@ tags:
 - magia
 ---
 
-# Sinal Voorish :Cthulhu_combate: :Cthulhu_outros:
-_Voorish Sign_
+# Sinal Voorish
+*Voorish Sign*
 
 Links:
 

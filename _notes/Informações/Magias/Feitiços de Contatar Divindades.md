@@ -5,8 +5,8 @@ tags:
 - magia
 ---
 
-# Contatar Divindades :Cthulhu_invocar:
-_Contact Deity Spells_
+# Contatar Divindades
+*Contact Deity Spells*
 
 Links:
 

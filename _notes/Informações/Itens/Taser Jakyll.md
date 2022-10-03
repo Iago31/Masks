@@ -5,12 +5,13 @@ tags:
 - item
 ---
 
-# Taser Jakyll :gameicon_electric:
+# Taser Jakyll
 
-Links: [[Jakyll]]
+Links: 
 
 ---
-![[Taser.png|right|350]]
+**![Taser|center](https://lh3.googleusercontent.com/ICyCY2hpLDj0Ntcu6g2KEOy2GlL3cAM3sr5pZG4dWUp_LjnZhbCiGBYM8uW-C6ulvN0JPIgpf9xX-ViMwCiJpBX2Vtm3b6U8ejtJoefAP05GBjGIppOONk5TMBKrdNdJhRgFBkuMX-SWN50OGyH2csQjMNfiSRBhLhon9E0GJ-aHPR23U6dy0SiPKlU3)**
+
 Uma maquina feita de minuciosos mecanismos que geram eletricidade, a transmitindo para um bastão com ponta de metal, causando um choque forte o bastante para atordoar ou até paralisar seres humanos. Com tantas peças e fiação, se por acaso a arma entrar em mal funcionamento e precisar ser reparada, a dificuldade é maior, e as peças custam mais.
 
 A arma tem 3 cargas que podem ser usadas antes da arma precisar ser recarregada. Para acertar um golpe com a arma, role um ataque com a habilidade Luta (Briga). Se acertar, uma carga é gasta e os efeitos da arma acontecem. Se errar, a carga não é gasta, mas nada acontece com o alvo.

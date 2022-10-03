@@ -6,7 +6,7 @@ data_no_jogo: 14/03/1925, Terça
 tags: 
 - sessão
 ---
-# Sessão 33 - O Sacerdote :gameicon_papers:
+# Sessão 33 - O Sacerdote 
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/yz43gA4oj9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

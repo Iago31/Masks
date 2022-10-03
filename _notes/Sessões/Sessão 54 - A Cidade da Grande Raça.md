@@ -6,33 +6,13 @@ data_no_jogo: 05/06/1925, Domingo - 11/06/1925, Sábado
 tags: 
 - sessão
 ---
-# Sessão 54  - A Cidade da Grande Raça  :gameicon_papers:
+# Sessão 54  - A Cidade da Grande Raça 
 
-<div align="center">LINK AQUI</div>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/lCcDkgfb14s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Link:[[]]
 
 ---
-### Anotações para a Sessão
-
-#### Começo
-Fogo. Tudo parece... devagar. Há movimento, e há calor, mas... o único som que se pode ouvir, apesar de todo este caos é de... respiração. É a sua respiração, mas também é de um estranho... como se alguém estivesse respirando pelo seu corpo. 
-Seus sentidos vão se acostumando com os arredores, que é quando vocês começam a escutar sons e ver as coisas a sua volta. 
-
-*Tim*, *Tim*, *Tim.* 
-
-Você bate uma lâmina de aço em uma bigorna
-
-#### outras cosa
-“Estava rastejando pelas areias do deserto Australiano, e em minha volta açoitava um vento tão poderoso, tal qual nunca tinha visto na superfície deste planeta. Minhas roupas estavam em farrapos, e meu corpo inteiro era uma massa de hematomas e cortes. A consciência retornou bem devagar, e em nenhum momento pude dizer onde a real memória acabava e um sonho delirante começava.”
-Fala JEREMY
-
-Morcego da Areia; Visão que não é visão - o necessário para que o Scott entenda completamente o seu talento
-
-"Já fui tempestade, agora sou dia de sol"
-
-Pedir pro Rodrigro em certa parte da sessão: o que o Billy acha que é ser forte? o que lhe dá força? porque?
-### Anotações da Sessão
 ### Resumo da Sessão
 A sessão começou com os investigadores tendo um tipo de visão, que começou de modo familiar. Fogo, e os sentidos lentamente retornando. Ouviam sons de alguém batendo aço contra uma bigorna. Aparentava haver ali uma outra coisa... um ser de sombras, que falou por cima do seu ombro.
 
@@ -107,7 +87,7 @@ Campo de extermínio, tendas destruídas e porrete com dente de morcego, Cachorr
 
 ---
 
-Portão onde embaixo tinha bixos invisíveis (Pólipos), geradores elétricos, fios de luz, praça com brilho azul, dormitório onde acharam papel ([[Handout 3 Austrália]]) e viram as estranhas armas dos cultistas, chegaram no Berçario, onde viram o poço cheia de bixo deformado, passaram pelo horror titãnico, a criatura dos contos do Billy, praça de brilho vermelho, câmara estranha onde encontraram  equipamentos extremamente avançados e cheio de ferramentas estranhas, uma cadeira com fones de ouvido metálicos, painés de controle, onde encontraram Kakakatak, uma Yithiana que aparentemente foi forçadamente trazida a este mundo pelo dispositivo de troca de mentes, no lugar de uma pequena garota humana. Ela ofereceu vocês conhecimentos como recompensa por a terem salvado, e voltou para seu tempo com o dispositivo.
+Portão onde embaixo tinha bixos invisíveis (Pólipos), geradores elétricos, fios de luz, praça com brilho azul, dormitório onde acharam um papel, e viram as estranhas armas dos cultistas, chegaram no Berçario, onde viram o poço cheia de bixo deformado, passaram pelo horror titãnico, a criatura dos contos do Billy, praça de brilho vermelho, câmara estranha onde encontraram  equipamentos extremamente avançados e cheio de ferramentas estranhas, uma cadeira com fones de ouvido metálicos, painés de controle, onde encontraram Kakakatak, uma Yithiana que aparentemente foi forçadamente trazida a este mundo pelo dispositivo de troca de mentes, no lugar de uma pequena garota humana. Ela ofereceu vocês conhecimentos como recompensa por a terem salvado, e voltou para seu tempo com o dispositivo.
 
 Depois disso foram até o escritório de John Carver, onde encontraram o manuscrito de um livro e uma carta, e também, se encontraram com o próprio, peculiarmente disfarçado de Geoff, que conversou com vocês. Ele é bem diferente do que esperavam, chegava a quase ser amigável com vocês, e vocês não sabiam identificar o motivo de sua animozidade com o grupo. 
 

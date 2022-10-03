@@ -6,7 +6,7 @@ data_no_jogo: 09/04/1925, Sábado - 10/04/1925, Domingo
 tags: 
 - sessão
 ---
-# Sessão 46 - Conexões :gameicon_papers:
+# Sessão 46 - Conexões
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/JNb5b-vEWpM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -14,9 +14,6 @@ Link:[[]]
 
 ---
 
-### Anotações para a Sessão
-Taan Kaur:
-Chegarão na loja dela, provavelmente a noite, para invadir. Por Scott ter rolado uma falha crítica na última sessão, ela vai sentir a presença deles chegando, vai pegar o máximo de coisas que conseguir, e vazar dali com os poderes que recebeu da benção do "Pequeno Rastejante".
 ### Resumo da Sessão
 A sessão começou com a cena da conversa do Vórus com o Bundari, onde eles conversaram sobre a sua balança que pende sobre dois conceitos: Poder e Fé, e de como, se escolheres apenas um caminho, vai acabar igual ao Geoff - um homem amaldiçoado pelos seus próprio demônios, pelas escolhas que fez no passado, incapaz de curar a si. Te disse que para enfrentar seus problemas você procura pelo Poder, e assim tua Fé será corroborada e assim alcançará seus objetivos, e que previu que se assim continuasse seria cercado pelas chamas do inferno. Talvez estas duas ideias não se complementem, Poder e Fé, mas sim se opõem. Terminou sua fala dizendo que se bateres nas portas do inferrno Vórus, o Diabo virá, e neste momento nenhuma Cruz ou Espada será capaz de te salvar. Te deu por fim seu último conselho: como o portador da palavra de Deus sabes que a Fé é a chave para todas as portas, e que não existem atalhos para se fazer o bem, apenas mentiras criadas pelo diabo.
 

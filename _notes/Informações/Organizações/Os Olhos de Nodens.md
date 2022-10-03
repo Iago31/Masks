@@ -1,3 +1,0 @@
-Eliott aceitou um trato para realizar alguam coisa no seu filho para que ele fosse uma capsula para Vorvadoss. Só que, mais tarde, ele acabou descobrindo o que os Olhos de Nodens realmente iriam querer fazer com o Marco. E como um bom pai, ele não queria que fizessem isso, e foi contra os ensinamentos da igreja para tentar impedir isso, e acabou dando bastante merda.
-
-Ele nunca tinha falado que teve dois filhos. Foi uma surpresa até pra ele. Ele então fez um plano com o Marco. O plano inicial não era tão drástico, mas as coisas começaram a sair um pouco do controle. Eliott estava tentando procurar uma maneira de desfazer o ritual que tinha sido realizado em seu filho

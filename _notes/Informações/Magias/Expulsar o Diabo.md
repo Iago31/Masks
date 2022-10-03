@@ -6,8 +6,8 @@ tags:
 - banimento/controle
 ---
 
-# Expulsar o Diabo :Cthulhu_banimento:
-_Cast Out the Devil_
+# Expulsar o Diabo
+*Cast Out the Devil*
 
 Links:
 

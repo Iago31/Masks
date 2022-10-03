@@ -5,7 +5,7 @@ tags:
 - magia
 ---
 
-# Feitiços de Vinculação :Cthulhu_banimento:
+# Feitiços de Vinculação
 
 Links: [[Feitiços de Invocação]]
 
@@ -14,7 +14,6 @@ Links: [[Feitiços de Invocação]]
 - **Tempo de Conjuração:** 1 Round.
 
 **_Lembrete:_** _(Vincular requer um teste resistido e testes resistidos não podem ser forçados; se o teste resistido falhar, o conjurador ta fudido uehueh)_
-
 
 Se um monstro chegar desvinculado ou for encontrado inesperadamente, ele pode ser vinculado no local. O conjurador deve saber o feitiço de Vinculação correto e deve passar um round conjurando antes que a coisa possa ser vinculada.
 

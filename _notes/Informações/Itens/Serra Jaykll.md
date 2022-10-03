@@ -5,21 +5,21 @@ tags:
 - item
 ---
 
-# Serra Jakyll  (e) :gameicon_circularsawblade:
+# Serra Jakyll
 
-Links: [[Jakyll]]
+Links:
 
 ---
-![[Serra.jpg|right|250]]
+**![Serra](https://lh3.googleusercontent.com/cYY4uTfiRd6e_3EG5awD1n4MHncDsPw4i8buYQRkBXErew70p18HPOKWCbXNEBNVRPO1EGnVYF0ngsT8An_I7Vdlj5kUNE12LTl33w0vfn7OkXvlT0okommqAZuwmnlGTo1BQGVGdmmwJdQWws8OPvLdNIddMrtuoSbO3pBOj0ZM51ThpEzAUwwISxic)**
 Uma engenhoca mecânica movida a gasolina tão perigosa para o usuário quanto para o inimigo. Sua força está nas serras mecânicas acopladas movidas por um motor de alta potência, na parte de cima de um longo cabo de metal. Esses discos, revestidos de dentes serrilhados, giram rapidamente, despedaçando a carne dos inimigos e qualquer coisa que aparecer em sua frente. A arma é difícil de se controlar, e pode ser usada um determinado nível de vezes até que o motor esquente demais e se torne extremamente perigoso de continuar usando.
 
 A serra pode ser usada para 3 ataques antes de entrar em superaquecimento, onde ela precisa esfriar para ser usada novamente. O primeiro ataque dá 2d8 de dano, pois o motor ainda está em aceleramento. O segundo ataque dá 2d8+2 de dano, quando o motor já está em uma velocidade razoável. O terceiro da 2d8+6 de dano, quando o motor está na velocidade máxima em que chega.
 
-| Ataque |      Dano       | Falha Crítica* |
-|:------:|:---------------:|:--------------:|
-|   1º   |   `dice: 2d8`   |      96+       |
-|   2º   | `dice: 2d8 + 2` |      94+       |
-|   3º   |  `dice: 2d8+6`  |      92+       |
+| Ataque |  Dano   | Falha Crítica* |
+|:------:|:-------:|:--------------:|
+|   1º   |   2d8   |      96+       |
+|   2º   | 2d8 + 2 |      94+       |
+|   3º   |  2d8+6  |      92+       |
 
 Demoram 2 rounds de combate para que ela esfrie e seja possível usa-la novamente (no começo do seu 2º turno depois do ultimo ataque onde ela ficou superaquecida).
 

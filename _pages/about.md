@@ -4,6 +4,4 @@ title: About
 permalink: /about
 ---
 
-*This is an about page.*
-
-Feel free to tell the world about what you love! 😍
+Um bando de tongo que joga TTRPGs de todo tipo. No momento estamos jogando a campanha Máscaras de Nyarlathotep (com modificações), feita para o sistema Call of Cthulhu, um sistema de terror, suspense e investigação baseado nas obras de H.P. Lovecraft.

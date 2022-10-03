@@ -5,7 +5,7 @@ tags:
 - magia
 ---
 
-# Criar Charme :Cthulhu_folk:
+# Criar Charme
 _Create Charm_
 
 Links:
@@ -23,3 +23,6 @@ Em termos de jogo, o charme temporariamente garante um dos seguintes (sugestões
 - Uma redução no dano recebido; agindo como se armadura fosse 5 (1d4 horas, 24 horas).
 
 Outros efeitos são possíveis a discrição do Mestre. Formas deste feitiço existem em muitas culturas.
+
+#### Nomes Alternativos
+*Benção da Velha Senhora*

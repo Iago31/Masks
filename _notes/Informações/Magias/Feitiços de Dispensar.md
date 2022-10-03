@@ -5,8 +5,8 @@ tags:
 - magia
 ---
 
-# Feitiços de Dispensar :Cthulhu_banimento:
-_Dismiss Deity_
+# Feitiços de Dispensar
+*Dismiss Deity*
 
 Links: [[Feitiços de Chamar]]
 
@@ -24,20 +24,3 @@ Uma vez que o caminho esteja preparado, o sacrifício de mais pontos de magia po
 
 Role 1D100 contra a chance total de dispensar. Assim como no Chamar Divindade, o lançador é o foco do feitiço; outros membros do grupo podem contribuir com pontos de magia. Embora os feitiços de Chamar Divindade sempre exijam condições e rituais especiais, o feitiço Dispensar pode ser lançado a qualquer hora, em qualquer lugar (mas observe que às vezes há exceções a essa regra, a critério do Mestre).
 Embora muitas magias de Chamar Divindade incluam um componente de dispensar, existem vários casos em que tal magia não contém o feitiço necessário. Transcrições de feitiços incompletas, falta de conhecimento e más intenções por parte do transcritor são todas as possíveis razões pelas quais os elementos de banimento podem estar faltando. Nesses casos, aqueles que desejam dispensar uma divindade precisarão procurar o feitiço apropriado.
-
-##### Nomes Alternativos de Feitiços de Dispensar Divindade
-Ao compor nomes alternativos para feitiços Dispensar Divindade, considere as seguintes palavras como inspiração:
-- Banimento 
-- Repelir
-- Repudiar 
-- Dissipar
-- Bane 
-- Expulso
-- Exílio 
-- Despejo
-- Renunciar 
-- Rejeitar
-- Destituir
-- Exorcizar
-
-Tente usar nomes evocativos e sutis para as divindades reais do Mythos ao invés de simplesmente usar seus nomes comuns. Muitas culturas nomearão essas entidades de maneiras diferentes. Não há razão para que um nome de feitiço relacionado a Yog-Sothoth não possa referenciar o ser como *As Esferas Horrendas*, ou *A Sede Insaciável das Almas*, e assim por diante.

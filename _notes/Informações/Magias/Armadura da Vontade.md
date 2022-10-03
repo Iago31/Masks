@@ -6,8 +6,7 @@ tags:
 - proteção
 ---
 
-# Armadura da Vontade :Cthulhu_protecao:
-_Will Armor_
+# Armadura da Vontade
 
 Links: [[Edgar Van Hellsing]]
 

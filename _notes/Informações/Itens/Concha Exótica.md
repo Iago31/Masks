@@ -11,8 +11,9 @@ tags:
 Links: [[]]
 
 ---
+*Encontrada no Vento Marfim na Inglaterra.* 
 
-Encontrada no [[Vento Marfim]]. Aproximadamente 46 centímetros de comprimento. O exterior opaco da concha contrasta muito com seu interior perolado.
+Aproximadamente 46 centímetros de comprimento. O exterior opaco da concha contrasta muito com seu interior perolado.
 
 A concha está encantada; soprar na concha por um perpiodo prolongado de tempo causa uma densa névoa a ser emitida, que se expande para uma área de 6 x 6 metros dentro de 5 minutos, e remanesce no local por 1d10+2 rounds antes de sumir. 
 

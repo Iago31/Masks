@@ -6,7 +6,7 @@ data_no_jogo: 15/03/1925, Terça – 16/03/1925, Quarta
 tags: 
 - sessão
 ---
-# Sessão 34 - Descobertas, Espionagens e Bêbados :gameicon_papers:
+# Sessão 34 - Descobertas, Espionagens e Bêbados 
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/AmvgUZq2334" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

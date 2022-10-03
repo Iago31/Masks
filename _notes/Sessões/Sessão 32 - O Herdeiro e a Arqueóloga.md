@@ -6,7 +6,7 @@ data_no_jogo: 14/03/1925, Terça
 tags: 
 - sessão
 ---
-# Sessão 32 - O Herdeiro e a Arqueóloga :gameicon_papers:
+# Sessão 32 - O Herdeiro e a Arqueóloga 
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ROU7pPk6hNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

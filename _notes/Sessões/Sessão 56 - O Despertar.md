@@ -6,32 +6,13 @@ data_no_jogo: 11/06/1925, Sábado - 03/07/1925 Segunda
 tags: 
 - sessão
 ---
-# Sessão 56 - O Despertar  :gameicon_papers:
+# Sessão 56 - O Despertar 
 
-<div align="center">LINK AQUI</div>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/rhjJIYNLZt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 Link:[[]]
 
 ---
-### Anotações para a Sessão
-Para a criação da Gish-Rla, vai ser necessário usar o feitiço de [[Vincular Gish-Rla]] (Chamar de "Vincular Gish-Rla", sei lá). Ela irá gradualmente se transformar em uma criatura de névoa, e o Vórus será capaz de comanda-la.
-
----
-
-Pra animar um pouco a sessão, posso fazer o navio ser abordado por um grupo de Profundos que vão ataca-los. (Cheiro de peixe podre)
-
----
-Quando chegarem no navio, vão ver Wilfred preocupado com o Hanz (psicólogo). Vórus encontra o corpo dele na sala da planta.
-
-
-### Anotações da Sessão
-Cenas terra dos sonhos
-(Scott: Biblioteca Edgar-Treina- Contatar Mente do Observador)
-(Salah: Invocar Criança do Bosque-Espírito do Vento)
-(Jakyll/Anz: Pai dos Yig-Cena Oficina Edgar)
-(Agatha: Droga de Sangue sobre Alice dia do acidente-Escritório do Edgar ou Biblioteca e pesquisar sobre SAbedoria do Abismo-Feitiços dos Livro do Huston)
-(Vórus: procurar Gish'rla - Bosque das Ilusões)
-
 ### Resumo da Sessão
 A sessão começou com os investigadores acordando em uma misteriosa sala de uma cabana, repleta de cheiros exóticos de ervas e plantas. As suas feridas haviam sido tratadas, e podia-se ouviar sons vindos da porta que saia desta sala.
 

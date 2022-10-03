@@ -5,8 +5,8 @@ tags:
 - magia
 ---
 
-# Toque de Dor :Cthulhu_combate:
-_Wither Limb_
+# Toque de Dor
+*Wither Limb*
 
 Links:
 

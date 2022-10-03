@@ -6,24 +6,13 @@ data_no_jogo: 18/05/1925 Quarta
 tags: 
 - sessão
 ---
-# Sessão 50 - Investigações em Cuncudgerie :gameicon_papers:
+# Sessão 50 - Investigações em Cuncudgerie
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/XrQjKtdieww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Link: [[Austrália]]
+Link: 
 
 ---
-### Anotações para a Sessão
-Gravador Scott
-
-Billy é sobrinho de José Machall. Ele conhece histórias de seu tio, um caçador lendário que viajou por muitos lugares. Foi dele que ele ouviu uma boa parte das histórias, embora ele não saiba onde ele está agora.
-
-Slattery vai dizer que outra pessoa veio perguntando por isso alguns dias atrás. Um caçador,  não parecia ser daqui.
-
-
-CENA SALAH DROGA DE SANGUE
-
-
 
 ### Resumo da Sessão
 A sessão começou com os investigadores chegando em Cuncudgerie, a cidade de partida para a suposta cidade no deserto, onde Robert Mackenzie deixou os suprimentos e veículos do contrato que assinaram com ele. 

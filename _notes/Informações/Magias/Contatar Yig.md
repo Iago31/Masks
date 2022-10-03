@@ -5,10 +5,10 @@ tags:
 - magia
 ---
 
-# Contatar Yig :Cthulhu_invocar:
+# Contatar Yig
 _Contact Yig_
 
-Links:
+Links: [[Feitiços de Contatar Divindades]]
 
 ---
 -  **Custo:** 5 Poder; 1d6 Sanidade (+ o valor perdido ao ver a entidade)

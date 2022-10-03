@@ -11,8 +11,9 @@ tags:
 Links: [[]]
 
 ---
+*Encontrada no Vento Marfim na Inglaterra* 
 
-Encontrada no [[Vento Marfim]]. 30 centímetros de comprimento. O que antes era uma extravagante lâmina ondulada foi corroída e ficou cega com o tempo. Entalhadas pelo comprimento da lâmina estão estranhos símbolos. 
+30 centímetros de comprimento. O que antes era uma extravagante lâmina ondulada foi corroída e ficou cega com o tempo. Entalhadas pelo comprimento da lâmina estão estranhos símbolos. 
 
 A lâmina pré-data a humanidade, feita por homens serpente alguns 250 milhões de anos atrás. Os símbolos na lâmina são caracteres Aklo e são uma invocação para [[Yig]], o Pai das Serpentes. Corretamente pronunciar o Aklo em voz alta faz com que a faca se transforme em uma grande cobra venenosa. A lâmina está muito corroída para ser uma arma útil.
 

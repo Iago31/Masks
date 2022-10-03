@@ -6,13 +6,14 @@ data_no_jogo: 03/03/1925, Sexta – 04/03/1925, Sábado
 tags: 
 - sessão
 ---
-# Sessão 29 - A Casa Misr :gameicon_papers:
+# Sessão 29 - A Casa Misr
 
-<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/FidzRqZEW0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>div>
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/FidzRqZEW0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Link:[[]]
 
 ---
+
 ### Resumo da Sessão
 Após a derrota das criaturas que perseguiam Scott, eles se puseram a lootear a mansão.
 

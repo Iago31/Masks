@@ -6,42 +6,13 @@ data_no_jogo: 08/04/1925, Sexta - 09/04/1925, Sábado
 tags: 
 - sessão
 ---
-# Sessão  45 - Um Sábio Feiticeiro  :gameicon_papers:
+# Sessão  45 - Um Sábio Feiticeiro  
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/3j8SJBWUwKw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-Link: [[Quênia]], [[Velho Bundari]]
+Link: 
 
 ---
-### Anotações para a Sessão
-Bundari vai chamar os personagens por nomes estranhos | _exemplo_: **Anz:** Conflito, Dualidade, Vocês. **Agatha:** Herdeira, Portadora, Arauta do Tempo. **Scott:** Equilíbrio/Portador da Marca/Luz/Balança. **Salah:** Marcado, Ira,  **Vórus:** Apóstolo
-
-Fazer nomes cthulescos também, talvez mais apelidos para cada
-
-Bundari se move de maneira muito estranha, fluindo lentamente, e as vezes parece que desmaia, para de respirar por quase um minuto e fica encarando um espaço vazio, voltando sem aviso para logo cair em transe novamente.
-
-Passa uma unção nas mãos, tira a chama da tocha do Scott e a imbui ela nas mãos dele.
-
-Para Scott: 
-"Me perguntas por onde andas o Carcereiro. Indiferente de você, eu não tocado fui por sua vontade, mas acredito que, assim como ele te diseste antes, a sua presença é mais forte onde a de seus inimigos prevalecem. Sua presença ainda é presente em ti, isto posso te dizer, e sinto que em tempos próximos teu coração te dirá o que fazer, pois senão ele nunca teria te escolhido como seu representante neste plano" 
-"Mas tome cuidado garoto. Este momento, um momento não obstante, também será acompanhado por uma sina que deverás carregar. Carregas contigo também uma outra marca, e embora pense que tu escolheu porta-la, saberá que o destino é algo engraçado, pois descobrirá que ela é tudo que te restará. 
-Mas não se desespere, pois até na escuridão pode se encontrar a luz."
-
-Para Salah: 
-"Teus pais te deixaram um belo presente, Ira. Tal destino que lhe foi imbuido, assim como as facas que carrega, pode cortar tudo e todos, sem acanhar-se a nenhum próximo. Chegará o momento em que se culpará por coisas que fizeste e deixaste de fazer, quando perceberes a verdade por trás do véu. Mas, acredito eu, que este destino recai a todos nós algum dia *risada rouca*"
-
-Para Anz:
-"Conflito, você ainda sofre por conta do seu passado. Sabes que deve deixa-lo para trás mas *ele* sempre vai estar ai pra te lembrar. Minha visão me diz que alguém com talentos parecidos aos meus influenciou seu destino, oferecendo-lhe o conhecimento de uma pessoa que igual a ti sofre. Digo que ela foi sábia em dizer-lhe isso, mas acredito que outra coisa devo te dizer. Algo mais te aflige que pode romper o equilíbrio que tentas buscar, e isso é algo que apenas uma pessoa pode restaurar."
-
-Para Vórus:
-"Andas em uma linha bem tênue, Apóstolo. Tua vontade se parte em dois conceitos: Poder e Fé, e esta é a tua balança. Darei a ti um conselho: Se seguires por um só caminho, terá o mesmo destino que teu mestre: um homem amaldiçoado pelos seus demônios, incapaz de curar a si, trilhando agora um caminho sem volta, onde, embora resultados possam ser encontrados; as consequências dos mesmos pesadamente irão recair sob não só a ele como também todos a sua volta. 
-Tu trilhas um caminho de almas Padre, e as sombras que delas emanam começam a afetar a tua também, embora tente negar. Há poucas coisas que conseguem enganar minha visão, e essa não é uma delas. Saiba que assim que a escolha for feita, não terá mais volta. Tuas ações me dizem que, para enfrentar seus problemas, procuras pelo Poder, e assim tua Fé será corroborada e se mostrará um bom sudito de Deus... mas prevejo que se assim seguir estarás cercado pelas chamas do inferno. Do ódio. As mesmas chamas que afligem um de seus companheiros. Talvez estas duas idéias não se complementem, Poder e Fé, e sim se õpoem. 
-
-Se bateres nos portões do inferno, Vórus, o Diabo virá, e tenha a certeza de que nada poderá te salvar. Como orientação te digo apenas uma coisa, pois pouco posso lhe ajudar nesse viés: como o portador da palavra de Deus sabes que a Fé é a chave para todas as portas, e que não existem atalhos para se fazer o bem, apenas mentiras criadas pelo Diabo.
-
-CENA DURANTE A NOITE
-
-Scott e Vórus acordam, alertas. Algo está vindo do quarto de Anz. Ao entrarem no quarto o veem de pé, a janela aberta.
 
 ### Resumo da Sessão
 Depois dos eventos no Alojamento de Caça, os investigadores voltaram então a Nairóbi. Chegando lá, de cara perceberam o quanto o número de pessoas parecia ter aumentado, e também quantas pessoas chegavam na cidade durante o dia. Um fluxo crescente de pessoas de todo lugar do mundo chegavam em Nairóbi.
@@ -69,7 +40,7 @@ A noite chegou, e voltaram para o Vilarejo Swahili para se encontrar novamente c
 Chegando lá, o guia passou alguns minutos discutindo com um jovem de aparência delicada, que se apresentou a vocês como Okomu, o assistente de Bundari. Falaram para ele seus motivos, e ele os guiu pela cabana, os levando até a sala onde estava ali sentado, de pernas cruzadas, um pequeno indivíduo de aparência frágil. Nu da cintura para cima, ele tem vários piercings e ornamentações de anéis e penas. Ele parecia quase não respirar, e seu corpo não movia um músculo, tanto que Okomu regularmente descruzava suas pernas e as massageava, para restaurar a circulação.
 
 Okomu orienta os investigadores a se sentarem, dizendo que eles devem esperar pacientemente que a atenção do velho se concentre nessa realidade. E assim esperaram. Por uma, duas, quatro, seis, oito horas, até que finalmente, quando estavam caindo de sono, tédio e dores nas pernas, o corpo do velho endureceu e inchou, e os investigadores percebem uma vivacidade intangível na figura, que não estava presente antes. Os olhos de Bundari se abrem e ele estuda cada um dos investigadores por sua vez.
-![[Velho Bundari prove Sabedoria e Presentes.png|right|350]]
+
 E então, passaram muitos e muitos minutos conversando com ele, um homem que já viu e muito vê, conectado quase que totalmente com os "outros lados". Muitas coisas descobriram falando com ele, ganharam maior entendimento sobre as coisas que lhes afligem, e também sobre o que possivelmente acontecerá com vocês em futuros não obstantes. Falou também sobre A Montanha do Vento Negro, do que vive lá, sobre o culto que lá opera, e sobre como enfrentá-lo, dando a vocês também sua visão da parte do Olho da Luz e da Escuridão em sua posse, onde ele passou algum tempo viajando ao outro lado para descobrir os segredos do símbolo. Ele disse que conversou com um místico e escriba, que vive no Extremo Oriente, que escreveu sete livros de conhecimento proibido, mas essencial. O místico se chama H'san, que conhecia a proteção e capturou sua magia em um de seus sete livros.
 
 Por fim, ele deu a vocês dois presentes: um batedor de moscas, e um camaleão enjaulado.

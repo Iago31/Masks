@@ -6,7 +6,7 @@ data_no_jogo: 13/03/1925, Segunda - 14/03/1925, Terça
 tags: 
 - sessão
 ---
-# Sessão 31 - O Confronto e o Conto :gameicon_papers:
+# Sessão 31 - O Confronto e o Conto 
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/7gdi_tzyndE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

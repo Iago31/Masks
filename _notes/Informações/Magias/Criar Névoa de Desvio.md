@@ -5,8 +5,8 @@ tags:
 - magia
 ---
 
-# Criar Névoa de Desvio :Cthulhu_ambiental: :Cthulhu_combate:
-_Create Mist of R'lyeh_
+# Criar Névoa de Desvio
+*Create Mist of R'lyeh*
 
 Links:
 

@@ -6,7 +6,7 @@ data_no_jogo: 18/03/1925, Sexta - 21/03/1925, Segunda
 tags: 
 - sessão
 ---
-# Sessão 39 - a Grande Câmara de Nyarlathotep  :gameicon_papers:
+# Sessão 39 - a Grande Câmara de Nyarlathotep  
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/LYf6GT_SseM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

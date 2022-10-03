@@ -7,13 +7,13 @@ tags:
 
 # Invocar/Vincular 
 ### Vampiros de Fogo
-_Bind/Summon Fire Vampire_
+*Bind/Summon Fire Vampire*
 
-Links: [[Feitiços de Invocação|Invocação]], [[Feitiços de Vinculação|Vinculação]], [[Vampiro de Fogo]], [[Cthugha]]
+Links: [[Feitiços de Invocação]], [[Feitiços de Vinculação]]
 
 ---
-##### [[Feitiços de Invocação|Invocar]] Vampiro de Fogo :Cthulhu_invocar:
+##### Invocar Vampiro de Fogo
 Faz com que um vampiro de fogo desca dos céus como uma estrela cadente. Uma fogueira ou outra fonte de chamas é necessária. O feitiço pode ser conjurado apenas a noite quando a estrela Formalhaut está acima do horizonte (de Setembro até Novembro são os melhores tempos em moderadas latitudes ao norte)
 
-##### [[Feitiços de Vinculação|Vincular]] Vampiro de Fogo :Cthulhu_banimento:
+##### Vincular Vampiro de Fogo
 Se o conjurador ficar sob uma fogueira eles ganham um dado bonus ao teste oposto de POD para vincular o vampiro. Como as chamas são resistidas é com o conjurador.

@@ -6,7 +6,7 @@ data_no_jogo: 16/03/1925, Quarta – Início de 17/03/1925, Quinta
 tags: 
 - sessão
 ---
-# Sessão 35 - Respostas :gameicon_papers:
+# Sessão 35 - Respostas 
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/vS-elSfYsMw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

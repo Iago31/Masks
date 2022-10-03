@@ -5,8 +5,8 @@ tags:
 - magia
 ---
 
-# Dominar :Cthulhu_influenciar::Cthulhu_combate:
-_Dominate_
+# Dominar
+*Dominate*
 
 Links:
 

@@ -1,6 +1,6 @@
 ---
 campanha: "Máscaras de Nyarlathotep"
-capítulo: ""
+capítulo: "Egito"
 aliases: []
 tags: 
 - livro
@@ -11,41 +11,33 @@ tags:
 Links: [[]]
 
 ---
-_Árabe, por Abdul al-Hazrad (Abd al-Azrad), c. 730. Dez pergaminhos, c. século 9 d.C., escritos a mão no que parece ser pergaminho bem fino de pele de cabra e armazenado em estojos de couro preto. Frágil, com algumas seções faltando.__
+*Árabe, por Abdul al-Hazrad, escrito em torno do ano de 730. Dez pergaminhos do século nove escritos a mão no que parece ser um pergaminho de pele de cabra muito fino e armazenado em estojos de couro preto. Frágil, com algumas seções faltando.*
 
-Não o original escrito pelo próprio “Árabe Louco”, que teria sido trazido para Cairo de Damasco por Saladino, mas talvez uma versão um pouco posterior (possivelmente transcrita por, ou da biblioteca do célebre escolar árabe Alkindi). Os pergaminhos mantidos no Museu Egípcio etsão, infelizmente, incompletos, embora possam ser a última cópia árabe do infame _Necronomicon_ existente. Além de uma coleção de feitiços abrangentes e destruidorer de sanidade, os pergaminhos contêm as histórias e lendas de praticamente todas as divindades e criaturas do Mitos que já existiram, em todas as suas inúmeras formas. Vários dos mapas e cartas estelares estão danificados ou foram desfigurados deliberadamente, tornando-os praticamente inúteis.
+Não o original escrito pelo próprio “Árabe Louco”. 
 
-### **Relevância**: 
-Este _Necronomicon_ Árabe contém a maioria das informações sobre o Faraó Negro que o Dr. Ali Kafour relata aos investigadores. Ele contém muito, muito mais do que isso, e é definitivamente perigoso para a vida e para a Sanidade. Kafour não deixa ninguém examinar tal tomo facilmente, por medo de perderem sua própria razão. Entretanto, dentro deste mais terrível dos tomos está o feitiço Invocar/Vincular Vampiro de Fogo, que pode ser útil se os investigadores desejarem destruir a Coroa de Nitocris (**Os Itens de Poder**, página 361). Ele também pode conter o feitiço necessário para abrir o Portão de Nyarlathotep encontrado na Grande Câmara abaixo da Esfinge em Gizé, se o Mestre assim desejar (**O Buraco Enorme**, página 357).
+Os pergaminhos mantidos no Museu Egípcio etsão, infelizmente, incompletos, embora possam ser a última cópia árabe do infame _Necronomicon_ existente. Além de uma coleção de feitiços abrangentes e destruidorer de sanidade, os pergaminhos contêm as histórias e lendas de várias divindades e criaturas do Mitos que já existiram, em todas as suas inúmeras formas. Vários dos mapas e cartas estelares estão danificados ou foram desfigurados deliberadamente, tornando-os praticamente inúteis.
 
+### **Pós-Leitura**: 
+Este _Necronomicon_ Árabe continha várias informações sobre o Faraó Negro. 
 
-- **Perca de Sanidade:** 2d10
+Ele contém muito, muito mais do que isso, e é definitivamente perigoso para a vida e para a Sanidade. 
 
-- **Mitos de Cthulhu:** +6/+12 por cento.
+Entretanto, dentro deste mais terrível dos tomos estão poderosos feitiços de invocação e chamado, inclusive o feitiço de invocação da Esfinge Negra.
 
-- **Valor de Mitos:** 54
-
-- **Estudo:** 68 semanas.
-
-|                                 **Magias:**                                 |
+|                                 **Feitiços:**                                 |
 |:---------------------------------------------------------------------------:|
-|         [[Chamar-Dispensar Azathoth]] (Suplicar ao Demônio Sultão)          |
-|        [[Chamar-Dispensar Cthugha]] (Trazer a Cá o Lorde das Chamas)        |
-|    [[Chamar-Dispensar Hastur]] (Chamar Aquele que Não deve Ser Nomeado)     |
-|             [[Chamar-Dispensar Nyoghta]] (Falar com o Sombrio)              |
-|    [[Chamar-Dispensar Shub-Niggurath]] (Salve a Mãe de Todas as Coisas)     |
-|                      [[Chamar-Dispensar Yog-Sothoth]]                       |
-|              [[Contatar Ghoul]] (Chamar Comedores de Carniça)               |
-|                 [[Contatar Nyarlathotep]] (Música do Caos)                  |
-| [[Contatar Vagantes-da-Areia]] (Trazer Aqueles que Vagam Abaixo do Deserto) |
+|        Suplicar ao Demônio Sultão       |
+|        Trazer a Cá o Lorde das Chamas     |
+|    Salve a Mãe de Todas as Coisas     |
+|           Chamar Comedores de Carniça             |
+| Trazer Aqueles que Vagam Abaixo do Deserto |
 |                                 [[Dominar]]                                 |
-|                      [[Temível Maldição de Azathoth]]                       |
-|                             [[Pó de Suleiman]]                              |
+|                      [[Temível Maldição de Azathoth]]       |
+|                             Pó de Suleiman                         |
 |                             [[Símbolo Ancião]]                              |
 |                             [[Pó de Ibn-Ghazi]]                             |
 |                              [[Ressurreição]]                               |
-|                                 [[Murchar]]                                 |
-|            [[Invocar-Vincular Byakhee]] (Trazer o Corcel Alado)             |
+|                                 Murchar                             |
+|           Trazer o Corcel Alado           |
 |                    [[Invocar-Vincular Vampiro de Fogo]]                     |
-|    [[Invocar-Vincular Servente dos Deuses Exteriores]] (Chamar o Único)     |
 | [[Sinal Voorish]]                                                                            |

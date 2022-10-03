@@ -6,7 +6,7 @@ data_no_jogo: 29/03/1925, Terça - Noite do mesmo dia
 tags: 
 - sessão
 ---
-# Sessão 40 - O Trem para Nairóbi  :gameicon_papers:
+# Sessão 40 - O Trem para Nairóbi  
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/Gjz_zyOagc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
