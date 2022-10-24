@@ -7,7 +7,122 @@ tags:
 ---
 
 #  Index 📌- Sessões
+
+### Capítulo 1: Peru
+[[Sessão 1 - Um Grupo Peculiar]] 
+**Data:** 10/12/2020
+**Data no Jogo:** 17/03/1921 - 18/03/1921
+
+[[Sessão 2 - O Deus em Disfarce]] 
+**Data:** 17/12/2020
+**Data no Jogo:** 18/03/1921 - 21/03/1921
+
+[[Sessão 3 - Vampiros em Puno]] 
+**Data:** 14/01/2021
+**Data no Jogo:** 21/03/1921 - 24/03/1921
+
+[[Sessão 4 - A Pirâmide]] 
+**Data:** 23/01/2021
+**Data no Jogo:** 24/03/1921 - 25/03/1921
+
+### Capítulo 2: América
+[[Sessão 5 - Um Amigo Pede Ajuda]] 
+**Data:** 17/04/2021
+**Data no Jogo:** 25/03/1921 - 16/01/1925
+
+[[Sessão 6 - Seguindo os Rastros]] 
+**Data:** 24/04/1921
+**Data no Jogo:** 16/01/1925 - 17/01/1925
+
+[[Sessão 7 - O Enterro de Elias]] 
+**Data:** 01/05/2021
+**Data no Jogo:** 17/01/1925, Sábado – 20/01/1925, Terça
+
+[[Sessão 8 - Invasão na Casa Ju-Ju]] 
+**Data:** 08/05/2021
+**Data no Jogo:** 20/01/1925, Terça – 22/01/1925, Quinta
+
+[[Sessão 9 - A Fuga de Haytham]] 
+**Data:** 22/05/2021
+**Data no Jogo:** 22/01/1925, Quinta - 23/01/1925, Sexta
+
+[[Sessão 10 - Os Harlem Hellfighters]] 
+**Data:** 31/05/2021
+**Data no Jogo:** 23/01/1925, Sexta
+
+[[Sessão 11 - Posessão]] 
+**Data:** 05/06/2021
+**Data no Jogo:** 23/01/1925, Sexta - 24/01/1925, Sábado
+
+[[Sessão 12 - Monstros e Insanidade]] 
+**Data:** 12/06/2021
+**Data no Jogo:** 24/01/1925, Sábado
+
+[[Sessão 13 - Confronto na Igreja]] 
+**Data:** 19/06/2021
+**Data no Jogo:** 27/01/1925, Terça - 28/01/1925, Quarta
+
 ### Capítulo 3: Inglaterra
+[[Sessão 14 - Os Mistérios de Londres]] 
+**Data:** 03/07/2021
+**Data no Jogo:** 28/01/1925, Quarta - 14/02/1925, Domingo
+
+[[Sessão 15 - Companheiros Inesperados]] 
+**Data:** 10/07/2021
+**Data no Jogo:** 14/02/1925, Domingo - 15/02/1925, Segunda
+
+[[Sessão 16 - Conflito Divino]] 
+**Data:** 17/07/2021
+**Data no Jogo:** 15/02/1925, Segunda - 17/02/1925, Quinta
+
+[[Sessão 17 - Espada Desperta]] 
+**Data:** 25/07/2021
+**Data no Jogo:** 17/02/1925, Quinta - 18/02/1925, Sexta
+
+[[Sessão 18 - O Sangue do Abismo]] 
+**Data:** 31/07/2021
+**Data no Jogo:** 18/02/1925, Sexta - 20/02/1925, Domingo
+
+[[Sessão 19 - Embate com o Horror de Derbyshire]] 
+**Data:** 07/08/2021
+**Data no Jogo:** 20/02/1925, Domingo
+
+[[Sessão 20 - O Exorcismo]] 
+**Data:** 12/08/2021
+**Data no Jogo:** 20/02/1925, Domingo - 23/02/1925, Quarta
+
+[[Sessão 21 - A Serpente Chelsea]] 
+**Data:** 08/09/2021
+**Data no Jogo:** 23/02/1925, Quarta - 24/02/1925, Quinta
+
+[[Sessão 22 - Aventura na Pintura]] 
+**Data:** 16/09/2021
+**Data no Jogo:** 24/02/1925, Quinta - 27/02/1925, Domingo
+
+[[Sessão 23 - A Volta a Londres Central]] 
+**Data:** 23/09/2021
+**Data no Jogo:** 27/02/1925, Domingo
+
+[[Sessão 24 - Cleópatra]] 
+**Data:** 30/09/2021
+**Data no Jogo:** 27/02/1925, Domingo - 28/02/1925, Segunda
+
+[[Sessão 25 - O Clube da Pirâmide Azul]] 
+**Data:** 07/10/2021
+**Data no Jogo:** 28/02/1925, Segunda - 29/02/1925, Terça
+
+[[Sessão 26 - A Manufatura Henson]] 
+**Data:** 14/10/2021
+**Data no Jogo:** 29/02/1925, Terça - 01/03/1925, Quarta
+
+[[Sessão 27 - Um Novo Companheiro]] 
+**Data:** 26/10/2021
+**Data no Jogo:** 01/03/1925, Quarta
+
+[[Sessão 28 - Confrontos e Percas]] 
+**Data:** 29/10/2021
+**Data no Jogo:** 01/03/1925, Quarta - 03/03/1925, Sexta
+
 [[Sessão 29 - A Casa Misr]] 
 **Data:** 04/11/2021
 **Data no Jogo:** 03/03/1925, Sexta – 04/03/1925, Sábado
@@ -124,6 +239,18 @@ tags:
 **Data:** 25/09/2022
 **Data no Jogo:** 11/06/1925, Sábado - 03/07/1925, Segunda
 
-[[Sessão 57]]
+[[Sessão 57 - Revelações Oníricas]]
 **Data:** 02/10/2022
 **Data no Jogo:** 11/06/1925, Sábado - 03/07/1925 Segunda
+
+[[Sessão 58 - Provações]]
+**Data:** 12/10/2022
+**Data no Jogo:** 03/07/1925, Segunda - 04/07/1925, Terça
+
+[[Sessão 59 -  O Astrólogo Amaldiçoado]]
+**Data:** 16/10/2022
+**Data no Jogo:** 04/07/1925, Terça
+
+[[Sessão 60]]
+**Data:** 23/10/2022
+**Data no Jogo:** 04/07/1925, Terça - 05/07/1925, Quarta

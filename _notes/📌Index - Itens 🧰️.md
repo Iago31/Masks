@@ -39,6 +39,9 @@ tags:
 - [[Soro de Dominação]]
 - [[Vidro de Leng]]
 - [[Toxina de Carótide]]
+
+### Capítulo 7: China
+- 
 ### Outros:
 - [[Durandal]]
 - [[Hauhet]]
