@@ -1,12 +1,12 @@
 ---
 campanha: "Máscaras de Nyarlathotep"
-capítulo: "Timeskip", "América"
+capítulo: "América"
 data: 17/04/2021
 data_no_jogo: 25/03/1921 - 16/01/1925
 tags: 
 - sessão
 ---
-# Sessão 5 - Um Amigo Pede Ajuda :gameicon_papers:
+# Sessão 5 - Um Amigo Pede Ajuda
 
 <div align="center">Indisponível</div>
 

@@ -6,7 +6,7 @@ data_no_jogo: 23/01/1925, Sexta
 tags: 
 - sessão
 ---
-# Sessão 10 - Os Harlem Hellfighters :gameicon_papers:
+# Sessão 10 - Os Harlem Hellfighters
 
 <div align="center">Indisponível</div>
 

@@ -6,7 +6,7 @@ data_no_jogo: 28/02/1925, Segunda - 29/02/1925, Terça
 tags: 
 - sessão
 ---
-# Sessão 25 - O Clube da Pirâmide Azul :gameicon_papers:
+# Sessão 25 - O Clube da Pirâmide Azul
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/nRhXe0ovyl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

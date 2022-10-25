@@ -6,7 +6,7 @@ data_no_jogo: 22/01/1925, Quinta - 23/01/1925, Sexta
 tags: 
 - sessão
 ---
-# Sessão 9 - A Fuga de Haytham :gameicon_papers:
+# Sessão 9 - A Fuga de Haytham
 
 <div align="center">Indisponível</div>
 

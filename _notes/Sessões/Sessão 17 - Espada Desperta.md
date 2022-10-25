@@ -6,7 +6,7 @@ data_no_jogo: 17/02/1925, Quinta - 18/02/1925, Sexta
 tags: 
 - sessão
 ---
-# Sessão 17 - Espada Desperta :gameicon_papers:
+# Sessão 17 - Espada Desperta
 
 <div align="center">LINK AQUI</div>
 

@@ -6,7 +6,7 @@ data_no_jogo: 17/03/1921 - 18/03/1921
 tags: 
 - sessão
 ---
-# Sessão 1 - Um Grupo Peculiar :gameicon_papers:
+# Sessão 1 - Um Grupo Peculiar
 
 <div align="center">Indisponível</div>
 

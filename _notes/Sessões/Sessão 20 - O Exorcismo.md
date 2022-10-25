@@ -6,7 +6,7 @@ data_no_jogo: 20/02/1925, Domingo - 23/02/1925, Quarta
 tags: 
 - sessão
 ---
-# Sessão 20 - O Exorcismo :gameicon_papers:
+# Sessão 20 - O Exorcismo
 
 <div align="center">LINK AQUI</div>
 

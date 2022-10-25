@@ -6,7 +6,7 @@ data_no_jogo: 24/01/1925, Sábado
 tags: 
 - sessão
 ---
-# Sessão 12 - Monstros e Insanidade :gameicon_papers:
+# Sessão 12 - Monstros e Insanidade
 
 <div align="center">Indisponível</div>
 

@@ -6,7 +6,7 @@ data_no_jogo: 28/01/1925, Quarta - 14/02/1925, Domingo
 tags: 
 - sessão
 ---
-# Sessão 14 - Os Mistérios de Londres :gameicon_papers:
+# Sessão 14 - Os Mistérios de Londres
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/EHWE1wbMAvM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 

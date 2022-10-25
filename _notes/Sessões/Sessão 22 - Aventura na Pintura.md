@@ -6,7 +6,7 @@ data_no_jogo: 24/02/1925, Quinta - 27/02/1925, Domingo
 tags: 
 - sessão
 ---
-# Sessão 22 - Aventura na Pintura :gameicon_papers:
+# Sessão 22 - Aventura na Pintura
 
 <div align="center">LINK AQUI</div>
 

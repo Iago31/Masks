@@ -6,7 +6,7 @@ data_no_jogo: 20/01/1925, Terça – 22/01/1925, Quinta
 tags: 
 - sessão
 ---
-# Sessão 8 - Invasão na Casa Ju-Ju :gameicon_papers:
+# Sessão 8 - Invasão na Casa Ju-Ju
 
 <div align="center">Indisponível</div>
 

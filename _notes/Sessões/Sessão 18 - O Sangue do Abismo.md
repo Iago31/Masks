@@ -6,7 +6,7 @@ data_no_jogo: 18/02/1925, Sexta - 20/02/1925, Domingo
 tags: 
 - sessão
 ---
-# Sessão 18 - O Sangue do Abismo :gameicon_papers:
+# Sessão 18 - O Sangue do Abismo
 
 <div align="center">LINK AQUI</div>
 

@@ -6,7 +6,7 @@ data_no_jogo: 23/01/1925, Sexta - 24/01/1925, Sábado
 tags: 
 - sessão
 ---
-# Sessão 11 - Posessão :gameicon_papers:
+# Sessão 11 - Posessão
 
 <div align="center">Indisponível</div>
 

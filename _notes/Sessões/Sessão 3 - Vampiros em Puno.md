@@ -7,7 +7,7 @@ tags:
 - sessão
 - Fazer
 ---
-# Sessão 3 - Vampiros em Lima :gameicon_papers:
+# Sessão 3 - Vampiros em Lima
 
 <div align="center">Indisponível</div>
 

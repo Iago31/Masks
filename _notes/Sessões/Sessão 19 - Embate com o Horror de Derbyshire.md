@@ -6,7 +6,7 @@ data_no_jogo: 20/02/1925, Domingo
 tags: 
 - sessão
 ---
-# Sessão 19 - Embate com o Horror de Derbyshire :gameicon_papers:
+# Sessão 19 - Embate com o Horror de Derbyshire
 
 <div align="center">LINK AQUI</div>
 

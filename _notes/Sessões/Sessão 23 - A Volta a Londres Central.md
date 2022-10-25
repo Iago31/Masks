@@ -6,7 +6,7 @@ data_no_jogo: 27/02/1925, Domingo
 tags: 
 - sessão
 ---
-# Sessão 23 - A Volta a Londres Central :gameicon_papers:
+# Sessão 23 - A Volta a Londres Central
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/CoK2qE-zqHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>I</div>
 

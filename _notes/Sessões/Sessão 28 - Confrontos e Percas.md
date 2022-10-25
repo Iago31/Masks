@@ -6,7 +6,7 @@ data_no_jogo: 01/03/1925, Quarta - 03/03/1925, Sexta
 tags: 
 - sessão
 ---
-# Sessão 28 - Confrontos e Percas :gameicon_papers:
+# Sessão 28 - Confrontos e Percas
 
 <div align="center">LINK AQUI</div>
 

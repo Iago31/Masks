@@ -6,7 +6,7 @@ data_no_jogo: 14/02/1925, Domingo - 15/02/1925, Segunda
 tags: 
 - sessão
 ---
-# Sessão 15 - Companheiros Inesperados :gameicon_papers:
+# Sessão 15 - Companheiros Inesperados
 
 <div align="center">LINK AQUI</div>
 

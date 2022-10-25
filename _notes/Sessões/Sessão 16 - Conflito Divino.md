@@ -6,7 +6,7 @@ data_no_jogo: 15/02/1925, Segunda - 17/02/1925, Quinta
 tags: 
 - sessão
 ---
-# Sessão 16 - Conflito Divino :gameicon_papers:
+# Sessão 16 - Conflito Divino
 
 <div align="center">LINK AQUI</div>
 

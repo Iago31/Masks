@@ -7,7 +7,7 @@ tags:
 - sessão
 
 ---
-# Sessão 21 - A Serpente Chelsea :gameicon_papers:
+# Sessão 21 - A Serpente Chelsea
 
 <div align="center">LINK AQUI</div>
 

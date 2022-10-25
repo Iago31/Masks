@@ -7,7 +7,7 @@ tags:
 - sessão
 
 ---
-# Sessão 2 - O Deus em Disfarce :gameicon_papers:
+# Sessão 2 - O Deus em Disfarce 
 
 <div align="center">Indisponível</div>
 

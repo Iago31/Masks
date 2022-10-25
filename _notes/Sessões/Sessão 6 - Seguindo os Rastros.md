@@ -6,7 +6,7 @@ data_no_jogo: 16/01/1925 - 17/01/1925
 tags: 
 - sessão
 ---
-# Sessão 6 - Seguindo os Rastros :gameicon_papers:
+# Sessão 6 - Seguindo os Rastros
 
 <div align="center">LINK AQUI</div>
 

@@ -6,7 +6,7 @@ data_no_jogo: 01/03/1925, Quarta
 tags: 
 - sessão
 ---
-# Sessão 27 - Um Novo Companheiro :gameicon_papers:
+# Sessão 27 - Um Novo Companheiro
 
 <div align="center">LINK AQUI</div>
 

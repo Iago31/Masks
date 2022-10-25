@@ -6,7 +6,7 @@ data_no_jogo: 24/03/1921 - 25/03/1921
 tags: 
 - sessão
 ---
-# Sessão 4 - A Pirâmide :gameicon_papers:
+# Sessão 4 - A Pirâmide
 
 <div align="center">Indisponível</div>
 

@@ -6,7 +6,7 @@ data_no_jogo: 29/02/1925, Terça - 01/03/1925, Quarta
 tags: 
 - sessão
 ---
-# Sessão 26 - A Manufatura Henson :gameicon_papers:
+# Sessão 26 - A Manufatura Henson
 
 <div align="center">LINK AQUI</div>
 

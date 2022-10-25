@@ -6,7 +6,7 @@ data_no_jogo: 27/01/1925, Terça - 28/01/1925, Quarta
 tags: 
 - sessão
 ---
-# Sessão 13 - Confronto na Igreja :gameicon_papers:
+# Sessão 13 - Confronto na Igreja
 
 <div align="center">Indisponível</div>
 

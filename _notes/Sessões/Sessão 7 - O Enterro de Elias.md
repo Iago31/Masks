@@ -6,7 +6,7 @@ data_no_jogo: 17/01/1925, Sábado – 20/01/1925, Terça
 tags: 
 - sessão
 ---
-# Sessão 7 - O Enterro de Elias :gameicon_papers:
+# Sessão 7 - O Enterro de Elias
 
 <div align="center">Indisponível</div>
 
